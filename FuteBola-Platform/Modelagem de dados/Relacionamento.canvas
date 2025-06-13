@@ -8,13 +8,14 @@
 		{"id":"be004df74816b6ed","type":"file","file":"notes_obsidian/FuteBola-Platform/Modelagem de dados/Tabelas/\"TB_PLAYER\".md","x":940,"y":-560,"width":400,"height":400,"color":"4"},
 		{"id":"1461b27b0c77f70d","type":"text","text":"N:N\n\nUm Jogador pode fazer parte de Any Grupos\n\nUm Grupo de Jogadores Pode ter Any Jogadores","x":1040,"y":345,"width":250,"height":200},
 		{"id":"0f89e41e72a4ac11","type":"text","text":"1:1\nUm hogador pode fazer um Pagamento\n\nUm Pagamento pode ser feito por um jogador","x":320,"y":345,"width":250,"height":170},
-		{"id":"ec474d01b5c171d7","type":"file","file":"notes_obsidian/FuteBola-Platform/Modelagem de dados/Tabelas/\"TB_MATCH\".md","x":885,"y":2160,"width":560,"height":475}
+		{"id":"ec474d01b5c171d7","type":"file","file":"notes_obsidian/FuteBola-Platform/Modelagem de dados/Tabelas/\"TB_MATCH\".md","x":940,"y":2240,"width":560,"height":475}
 	],
 	"edges":[
 		{"id":"7daf5a41a027191a","fromNode":"03a73d18aa678be1","fromSide":"bottom","toNode":"be004df74816b6ed","toSide":"top","color":"4"},
 		{"id":"3cdae463df314639","fromNode":"be004df74816b6ed","fromSide":"bottom","toNode":"f307736f6e9516fd","toSide":"top"},
 		{"id":"6afcf5762093934e","fromNode":"f307736f6e9516fd","fromSide":"top","toNode":"be004df74816b6ed","toSide":"bottom"},
 		{"id":"d50582793bb952fb","fromNode":"be004df74816b6ed","fromSide":"bottom","toNode":"bf96249f7977cbb1","toSide":"top"},
-		{"id":"95344ac412a18a3e","fromNode":"f307736f6e9516fd","fromSide":"left","toNode":"bf96249f7977cbb1","toSide":"right"}
+		{"id":"95344ac412a18a3e","fromNode":"f307736f6e9516fd","fromSide":"left","toNode":"bf96249f7977cbb1","toSide":"right"},
+		{"id":"9c8b71168c08dd65","fromNode":"ec474d01b5c171d7","fromSide":"right","toNode":"be004df74816b6ed","toSide":"right"}
 	]
 }
