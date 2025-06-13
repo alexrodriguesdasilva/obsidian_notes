@@ -2,8 +2,8 @@
 	"nodes":[
 		{"id":"03a73d18aa678be1","type":"file","file":"notes_obsidian/FuteBola-Platform/Modelagem de dados/Tabelas/\"TB_USER\".md","x":120,"y":-560,"width":400,"height":400,"color":"4"},
 		{"id":"be004df74816b6ed","type":"file","file":"notes_obsidian/FuteBola-Platform/Modelagem de dados/Tabelas/\"TB_PLAYER\".md","x":940,"y":-560,"width":400,"height":400,"color":"4"},
-		{"id":"f307736f6e9516fd","x":460,"y":300,"width":400,"height":400,"color":"4","type":"file","file":"notes_obsidian/FuteBola-Platform/Modelagem de dados/Tabelas/\"TB_PLAYER_GROUP\".md"},
-		{"id":"d18ba3b1fee526e2","x":616,"y":-282,"width":250,"height":50,"type":"text","text":""}
+		{"id":"d18ba3b1fee526e2","x":610,"y":-440,"width":250,"height":160,"color":"4","type":"text","text":"OneToOne\nUm User poder ser um Jogador \nUm jogador SEMPRE é um user"},
+		{"id":"f307736f6e9516fd","x":940,"y":380,"width":400,"height":400,"color":"4","type":"file","file":"notes_obsidian/FuteBola-Platform/Modelagem de dados/Tabelas/\"TB_PLAYER_GROUP\".md"}
 	],
 	"edges":[
 		{"id":"7daf5a41a027191a","fromNode":"03a73d18aa678be1","fromSide":"right","toNode":"be004df74816b6ed","toSide":"left","color":"4"},
