@@ -18,6 +18,7 @@
 		{"id":"ef6116802ffa1ded","fromNode":"be004df74816b6ed","fromSide":"right","toNode":"ec474d01b5c171d7","toSide":"top"},
 		{"id":"6ed98f27591a3f87","fromNode":"bf96249f7977cbb1","fromSide":"right","toNode":"ec474d01b5c171d7","toSide":"left"},
 		{"id":"0b220b77ad6ac8f0","fromNode":"f307736f6e9516fd","fromSide":"right","toNode":"ec474d01b5c171d7","toSide":"bottom"},
-		{"id":"d50582793bb952fb","fromNode":"be004df74816b6ed","fromSide":"bottom","toNode":"bf96249f7977cbb1","toSide":"top"}
+		{"id":"d50582793bb952fb","fromNode":"be004df74816b6ed","fromSide":"bottom","toNode":"bf96249f7977cbb1","toSide":"top"},
+		{"id":"95344ac412a18a3e","fromNode":"f307736f6e9516fd","fromSide":"left","toNode":"bf96249f7977cbb1","toSide":"right"}
 	]
 }
