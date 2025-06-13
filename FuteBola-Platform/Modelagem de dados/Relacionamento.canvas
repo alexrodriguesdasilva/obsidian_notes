@@ -8,7 +8,8 @@
 		{"id":"be004df74816b6ed","type":"file","file":"notes_obsidian/FuteBola-Platform/Modelagem de dados/Tabelas/\"TB_PLAYER\".md","x":940,"y":-560,"width":400,"height":400,"color":"4"},
 		{"id":"1461b27b0c77f70d","type":"text","text":"N:N\n\nUm Jogador pode fazer parte de Any Grupos\n\nUm Grupo de Jogadores Pode ter Any Jogadores","x":1040,"y":345,"width":250,"height":200},
 		{"id":"0f89e41e72a4ac11","type":"text","text":"1:1\nUm hogador pode fazer um Pagamento\n\nUm Pagamento pode ser feito por um jogador","x":320,"y":345,"width":250,"height":170},
-		{"id":"ec474d01b5c171d7","type":"file","file":"notes_obsidian/FuteBola-Platform/Modelagem de dados/Tabelas/\"TB_MATCH\".md","x":860,"y":2280,"width":560,"height":475}
+		{"id":"ec474d01b5c171d7","type":"file","file":"notes_obsidian/FuteBola-Platform/Modelagem de dados/Tabelas/\"TB_MATCH\".md","x":860,"y":2280,"width":560,"height":475},
+		{"id":"67662cc1e7cbdc02","x":2351,"y":917,"width":309,"height":243,"type":"text","text":"N:N\n\nUm Jogador pode participar de muitas partidas\n\nUma partida pode ter "}
 	],
 	"edges":[
 		{"id":"7daf5a41a027191a","fromNode":"03a73d18aa678be1","fromSide":"bottom","toNode":"be004df74816b6ed","toSide":"top","color":"4"},
@@ -18,6 +19,7 @@
 		{"id":"95344ac412a18a3e","fromNode":"f307736f6e9516fd","fromSide":"left","toNode":"bf96249f7977cbb1","toSide":"right"},
 		{"id":"c74a1cededd31550","fromNode":"ec474d01b5c171d7","fromSide":"right","toNode":"be004df74816b6ed","toSide":"right"},
 		{"id":"95b1bd35ac3f3195","fromNode":"be004df74816b6ed","fromSide":"right","toNode":"ec474d01b5c171d7","toSide":"right"},
-		{"id":"30ab3aea1958b0be","fromNode":"f307736f6e9516fd","fromSide":"bottom","toNode":"ec474d01b5c171d7","toSide":"top"}
+		{"id":"30ab3aea1958b0be","fromNode":"f307736f6e9516fd","fromSide":"bottom","toNode":"ec474d01b5c171d7","toSide":"top"},
+		{"id":"e5dc9b2f1cf8fc0a","fromNode":"ec474d01b5c171d7","fromSide":"left","toNode":"bf96249f7977cbb1","toSide":"bottom"}
 	]
 }
