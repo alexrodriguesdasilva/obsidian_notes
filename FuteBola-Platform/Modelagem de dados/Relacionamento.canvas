@@ -10,8 +10,8 @@
 		{"id":"0f89e41e72a4ac11","type":"text","text":"1:1\nUm jogador pode fazer um Pagamento\n\nUm Pagamento sempre é de um jogador","x":320,"y":345,"width":250,"height":170,"color":"1"},
 		{"id":"ec474d01b5c171d7","type":"file","file":"notes_obsidian/FuteBola-Platform/Modelagem de dados/Tabelas/\"TB_MATCH\".md","x":860,"y":2280,"width":560,"height":475},
 		{"id":"67662cc1e7cbdc02","x":1420,"y":919,"width":309,"height":243,"color":"1","type":"text","text":"N:N\n\nUm Jogador pode participar de muitas partidas\n\nUma partida pode ter Muitos jogadores"},
-		{"id":"ebf50e5057ffa16e","x":968,"y":1760,"width":345,"height":160,"color":"1","type":"text","text":"N:1\n\nUm Grupo pode ter Muitas partidas\n\nUma partida pode ser de um grupo"},
-		{"id":"23854d444c907b6d","x":-40,"y":1920,"width":325,"height":181,"color":"1","type":"text","text":"N:1\n\nUma partida pode ter Muitos Pagamentos\n\nUm pagamento pode ser de apenas uma partida"},
+		{"id":"ebf50e5057ffa16e","x":968,"y":1760,"width":345,"height":160,"color":"1","type":"text","text":"N:1\n\nUm Grupo pode ter Muitas partidas\n\nUma partida talvez pode fazer parte de um grupo"},
+		{"id":"23854d444c907b6d","x":-40,"y":1920,"width":325,"height":181,"color":"1","type":"text","text":"N:1\n\nUma partida pode ter Muitos Pagamentos\n\nUm pagamento talvez pode ser feito para um grupo"},
 		{"id":"781cb1c7ccf371f1","x":80,"y":2529,"width":341,"height":226,"type":"text","text":"Regra de negocio Bonus onde implementar?\n\nAlguns grupos podem ter uma regra para caso um jogador complete o pagamento de 3 partidas naquele mes, o jogador já fez todo o pagamento mensal"}
 	],
 	"edges":[
