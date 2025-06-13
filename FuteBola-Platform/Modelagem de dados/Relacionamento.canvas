@@ -1,7 +1,8 @@
 {
 	"nodes":[
+		{"id":"f307736f6e9516fd","x":741,"y":-49,"width":400,"height":400,"type":"file","file":"notes_obsidian/FuteBola-Platform/Modelagem de dados/Tabelas/\"TB_PLAYER_GROUP\".md"},
 		{"id":"03a73d18aa678be1","type":"file","file":"notes_obsidian/FuteBola-Platform/Modelagem de dados/Tabelas/\"TB_USER\".md","x":120,"y":-560,"width":400,"height":400,"color":"4"},
-		{"id":"be004df74816b6ed","x":940,"y":-560,"width":400,"height":400,"color":"4","type":"file","file":"notes_obsidian/FuteBola-Platform/Modelagem de dados/Tabelas/\"TB_PLAYER\".md"}
+		{"id":"be004df74816b6ed","type":"file","file":"notes_obsidian/FuteBola-Platform/Modelagem de dados/Tabelas/\"TB_PLAYER\".md","x":940,"y":-560,"width":400,"height":400,"color":"4"}
 	],
 	"edges":[
 		{"id":"7daf5a41a027191a","fromNode":"03a73d18aa678be1","fromSide":"right","toNode":"be004df74816b6ed","toSide":"left","color":"4"}
