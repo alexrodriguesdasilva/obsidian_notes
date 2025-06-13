@@ -5,7 +5,7 @@
 		{"id":"03a73d18aa678be1","type":"file","file":"notes_obsidian/FuteBola-Platform/Modelagem de dados/Tabelas/\"TB_USER\".md","x":100,"y":-560,"width":400,"height":400,"color":"4"},
 		{"id":"f307736f6e9516fd","type":"file","file":"notes_obsidian/FuteBola-Platform/Modelagem de dados/Tabelas/\"TB_PLAYER_GROUP\".md","x":940,"y":420,"width":400,"height":400,"color":"4"},
 		{"id":"bf96249f7977cbb1","type":"file","file":"notes_obsidian/FuteBola-Platform/Modelagem de dados/Tabelas/\"TB_PLAYER_PAYMENT\".md","x":120,"y":420,"width":400,"height":400},
-		{"id":"1461b27b0c77f70d","x":350,"y":40,"width":250,"height":60,"type":"text","text":"ManyToMany"}
+		{"id":"1461b27b0c77f70d","x":1015,"y":100,"width":250,"height":180,"type":"text","text":"ManyToMany\n\nUm Jogador pode fazer parte de Any Grupos\n\nUm Grupo "}
 	],
 	"edges":[
 		{"id":"7daf5a41a027191a","fromNode":"03a73d18aa678be1","fromSide":"right","toNode":"be004df74816b6ed","toSide":"left","color":"4"},
