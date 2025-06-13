@@ -12,7 +12,7 @@
 		{"id":"67662cc1e7cbdc02","type":"text","text":"N:N\n\nUm Jogador pode participar de muitas partidas\n\nUma partida pode ter Muitos jogadores","x":1420,"y":919,"width":309,"height":243},
 		{"id":"ebf50e5057ffa16e","type":"text","text":"N:1\n\nUm Grupo pode ter Muitas partidas\n\nUma partida talvez pode fazer parte de um grupo","x":968,"y":1760,"width":345,"height":160},
 		{"id":"23854d444c907b6d","type":"text","text":"N:1\n\nUma partida pode ter Muitos Pagamentos\n\nUm pagamento talvez pode ser feito para um grupo","x":-40,"y":1920,"width":325,"height":181},
-		{"id":"781cb1c7ccf371f1","type":"text","text":"Regra de negocio Bonus onde implementar?\n\nAlguns grupos podem ter uma regra para caso um jogador complete o pagamento de 3 partidas naquele mes, o jogador já fez todo o pagamento mensal","x":80,"y":2529,"width":341,"height":226,"color":"1"}
+		{"id":"781cb1c7ccf371f1","type":"text","text":"**Onde implementar a regra de negócio de bônus?**\n\nAlguns grupos possuem uma regra em que, se um jogador realizar o pagamento de 3 partidas dentro de um mesmo mês, esse jogador é considerado como tendo quitado o pagamento mensal integral.","x":80,"y":2529,"width":341,"height":271,"color":"1"}
 	],
 	"edges":[
 		{"id":"7daf5a41a027191a","fromNode":"03a73d18aa678be1","fromSide":"bottom","toNode":"be004df74816b6ed","toSide":"top","color":"4"},
