@@ -25,7 +25,23 @@
 🔹 `TB_MATCH` → `TB_PLAYER_PAYMENT`
 **Relação:** `1:N (opcional no lado de Payment)`
 
-- ✅ Uma partida pode ter muitos pagamentos.
+- Uma partida pode ter muitos pagamentos.
     
-- ✅ Um pagamento pode estar associado a uma partida **ou não** (em caso de pagamento mensal).
+- Um pagamento pode estar associado a uma partida **ou não** (em caso de pagamento mensal).
 
+🔹 `TB_PLAYER_GROUP` → `TB_MATCH`
+
+**Relação:** `1:N (opcional)`
+
+- Um grupo pode ter várias partidas.
+    
+- Uma partida pode ou não estar associada a um grupo.
+
+### 🔹 `TB_PLAYER` ⇄ `TB_PLAYER_GROUP`
+
+**Relação:** `N:N`  
+**Tabela intermediária:** `TB_PLAYER_GROUP_MEMBER`
+
+- Um jogador pode estar em vários grupos.
+    
+- Um grupo pode ter vários jogadores.
