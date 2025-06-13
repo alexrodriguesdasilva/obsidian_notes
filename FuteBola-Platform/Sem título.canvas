@@ -3,5 +3,7 @@
 		{"id":"3ff45a539c0d2ed5","type":"text","text":"\"TB_USER\"\n\nid\n\nname\nnickname\nbirth_date\nphone\nemail\ncreated_at\nupdated_at","x":-40,"y":-380,"width":380,"height":320},
 		{"id":"4303f2103eb0b027","type":"text","text":"TB_PLAYER\n\nid\n\npreferredPosition\ndominantFoot","x":900,"y":-307,"width":300,"height":175}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"e1f1ab3bf83dd250","fromNode":"3ff45a539c0d2ed5","fromSide":"right","toNode":"4303f2103eb0b027","toSide":"left"}
+	]
 }
