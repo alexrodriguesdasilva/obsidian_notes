@@ -20,4 +20,12 @@
 
 - Um grupo pode receber **vários pagamentos**.
     
-- ✅ Um pagamento pode ou não estar ligado a um grupo.
+- Um pagamento pode ou não estar ligado a um grupo.
+
+🔹 `TB_MATCH` → `TB_PLAYER_PAYMENT`
+**Relação:** `1:N (opcional no lado de Payment)`
+
+- ✅ Uma partida pode ter muitos pagamentos.
+    
+- ✅ Um pagamento pode estar associado a uma partida **ou não** (em caso de pagamento mensal).
+
