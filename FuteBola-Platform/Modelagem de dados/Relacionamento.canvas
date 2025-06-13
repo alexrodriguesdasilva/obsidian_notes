@@ -6,9 +6,9 @@
 		{"id":"0f89e41e72a4ac11","type":"text","text":"OneToOne\nUm hogador pode fazer um Pagamento\n\nUm Pagamento pode ser feito por um jogador","x":500,"y":360,"width":250,"height":170},
 		{"id":"f307736f6e9516fd","type":"file","file":"notes_obsidian/FuteBola-Platform/Modelagem de dados/Tabelas/\"TB_PLAYER_GROUP\".md","x":940,"y":1040,"width":400,"height":400,"color":"4"},
 		{"id":"bf96249f7977cbb1","type":"file","file":"notes_obsidian/FuteBola-Platform/Modelagem de dados/Tabelas/\"TB_PLAYER_PAYMENT\".md","x":-100,"y":1040,"width":400,"height":400},
-		{"id":"ec474d01b5c171d7","type":"file","file":"notes_obsidian/FuteBola-Platform/Modelagem de dados/Tabelas/\"TB_MATCH\".md","x":1660,"y":280,"width":560,"height":475},
 		{"id":"03a73d18aa678be1","type":"file","file":"notes_obsidian/FuteBola-Platform/Modelagem de dados/Tabelas/\"TB_USER\".md","x":940,"y":-1780,"width":400,"height":400,"color":"4"},
-		{"id":"d18ba3b1fee526e2","type":"text","text":"1:1\nUm User poder ser um Jogador \n\nUm jogador SEMPRE é um user","x":1015,"y":-1080,"width":250,"height":200,"color":"4"}
+		{"id":"d18ba3b1fee526e2","type":"text","text":"1:1\nUm User poder ser um Jogador \n\nUm jogador SEMPRE é um user","x":1015,"y":-1080,"width":250,"height":200,"color":"4"},
+		{"id":"ec474d01b5c171d7","type":"file","file":"notes_obsidian/FuteBola-Platform/Modelagem de dados/Tabelas/\"TB_MATCH\".md","x":1680,"y":308,"width":560,"height":475}
 	],
 	"edges":[
 		{"id":"7daf5a41a027191a","fromNode":"03a73d18aa678be1","fromSide":"bottom","toNode":"be004df74816b6ed","toSide":"top","color":"4"},
@@ -16,7 +16,6 @@
 		{"id":"6afcf5762093934e","fromNode":"f307736f6e9516fd","fromSide":"top","toNode":"be004df74816b6ed","toSide":"bottom"},
 		{"id":"cfd24076c6abe294","fromNode":"ec474d01b5c171d7","fromSide":"top","toNode":"be004df74816b6ed","toSide":"right"},
 		{"id":"ef6116802ffa1ded","fromNode":"be004df74816b6ed","fromSide":"right","toNode":"ec474d01b5c171d7","toSide":"top"},
-		{"id":"b54ceca49157b5ff","fromNode":"ec474d01b5c171d7","fromSide":"bottom","toNode":"f307736f6e9516fd","toSide":"right"},
 		{"id":"6ed98f27591a3f87","fromNode":"bf96249f7977cbb1","fromSide":"right","toNode":"ec474d01b5c171d7","toSide":"left"},
 		{"id":"59c1d469b9d831fd","fromNode":"bf96249f7977cbb1","fromSide":"top","toNode":"be004df74816b6ed","toSide":"bottom"},
 		{"id":"39e0ae0c8340341c","fromNode":"bf96249f7977cbb1","fromSide":"right","toNode":"f307736f6e9516fd","toSide":"left"}
