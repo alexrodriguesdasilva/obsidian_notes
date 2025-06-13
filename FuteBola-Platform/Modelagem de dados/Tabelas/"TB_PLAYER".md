@@ -1,0 +1,4 @@
+id
+
+preferredPosition
+dominantFoot
