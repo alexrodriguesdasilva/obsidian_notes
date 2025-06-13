@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"4b9c41be7681c8ed","x":745,"y":30,"width":250,"height":60,"type":"text","text":""},
 		{"id":"be004df74816b6ed","type":"file","file":"notes_obsidian/FuteBola-Platform/Modelagem de dados/Tabelas/\"TB_PLAYER\".md","x":940,"y":-560,"width":400,"height":400,"color":"4"},
 		{"id":"03a73d18aa678be1","type":"file","file":"notes_obsidian/FuteBola-Platform/Modelagem de dados/Tabelas/\"TB_USER\".md","x":100,"y":-560,"width":400,"height":400,"color":"4"},
 		{"id":"f307736f6e9516fd","type":"file","file":"notes_obsidian/FuteBola-Platform/Modelagem de dados/Tabelas/\"TB_PLAYER_GROUP\".md","x":940,"y":420,"width":400,"height":400,"color":"4"},
