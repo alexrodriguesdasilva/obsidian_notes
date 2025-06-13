@@ -13,3 +13,11 @@
 - ❌ Um jogador **pode ter vários pagamentos**, não apenas um.
     
 - ✅ Um pagamento é **sempre** feito por um jogador.
+
+### 🔹 `TB_PLAYER_GROUP` → `TB_PLAYER_PAYMENT`
+
+**Relação:** `1:N (opcional no lado de Payment)`
+
+- ✅ Um grupo pode receber **vários pagamentos**.
+    
+- ✅ Um pagamento pode ou não estar ligado a um grupo.
