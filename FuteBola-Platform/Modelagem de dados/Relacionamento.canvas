@@ -8,7 +8,8 @@
 		{"id":"0f89e41e72a4ac11","type":"text","text":"OneToOne\nUm hogador pode fazer um Pagamento\n\nUm Pagamento pode ser feito por um jogador","x":500,"y":360,"width":250,"height":170},
 		{"id":"f307736f6e9516fd","type":"file","file":"notes_obsidian/FuteBola-Platform/Modelagem de dados/Tabelas/\"TB_PLAYER_GROUP\".md","x":940,"y":1040,"width":400,"height":400,"color":"4"},
 		{"id":"bf96249f7977cbb1","type":"file","file":"notes_obsidian/FuteBola-Platform/Modelagem de dados/Tabelas/\"TB_PLAYER_PAYMENT_GROUP_Avulso\".md","x":-100,"y":1040,"width":400,"height":400},
-		{"id":"ec474d01b5c171d7","type":"file","file":"notes_obsidian/FuteBola-Platform/Modelagem de dados/Tabelas/\"TB_PLAYER_MATCH_GROUP\".md","x":1660,"y":280,"width":560,"height":475}
+		{"id":"ec474d01b5c171d7","type":"file","file":"notes_obsidian/FuteBola-Platform/Modelagem de dados/Tabelas/\"TB_PLAYER_MATCH_GROUP\".md","x":1660,"y":280,"width":560,"height":475},
+		{"id":"e5c40471ba5234d0","x":540,"y":1620,"width":400,"height":400,"type":"file","file":"notes_obsidian/FuteBola-Platform/Modelagem de dados/Tabelas/\"TB_PLAYER_PAYMENT_GROUP_Mensal\".md"}
 	],
 	"edges":[
 		{"id":"7daf5a41a027191a","fromNode":"03a73d18aa678be1","fromSide":"right","toNode":"be004df74816b6ed","toSide":"left","color":"4"},
