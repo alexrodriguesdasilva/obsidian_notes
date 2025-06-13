@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"3ff45a539c0d2ed5","x":-240,"y":-180,"width":380,"height":320,"type":"text","text":"\"TB_USER\"\n\nid\n\nname;\nnickname;\n\n  \n\n@Column(name = \"birth_date\")\n\nprivate LocalDate birthDate;\n\n  \n\nprivate String phone;\n\n@Column(unique = true)\n\nprivate String email;\n\n@Column(name = \"created_at\")\n\n@CreationTimestamp\n\nprivate LocalDateTime createdAt;\n\n  \n\n@Column(name = \"updated_at\")\n\n@UpdateTimestamp\n\nprivate LocalDateTime updatedAt;"}
+		{"id":"3ff45a539c0d2ed5","x":-240,"y":-180,"width":380,"height":320,"type":"text","text":"\"TB_USER\"\n\nid\n\nname\nnickname\nbirth_date\nphone\nemail\ncreated_at\nupdated_at"}
 	],
 	"edges":[]
 }
