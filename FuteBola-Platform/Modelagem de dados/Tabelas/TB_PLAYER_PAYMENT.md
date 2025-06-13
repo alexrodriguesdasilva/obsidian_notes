@@ -1,5 +1,6 @@
 id
 
-amount; // valor pago
-paymentDate; // data do pagamento
-paymentType;
+amount // valor pago
+paymentDate // data do pagamento
+paymentType
+description
