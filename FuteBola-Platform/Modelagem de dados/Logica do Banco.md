@@ -45,3 +45,12 @@
 - Um jogador pode estar em vários grupos.
     
 - Um grupo pode ter vários jogadores.
+
+### 🔹 `TB_PLAYER` ⇄ `TB_MATCH`
+
+**Relação:** `N:N`  
+**Tabela intermediária:** `TB_MATCH_PLAYER`
+
+- Um jogador pode participar de várias partidas.
+    
+- Uma partida pode ter vários jogadores.
