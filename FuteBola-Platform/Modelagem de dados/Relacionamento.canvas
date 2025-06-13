@@ -4,7 +4,7 @@
 		{"id":"d18ba3b1fee526e2","type":"text","text":"1:1\nUm User poder ser um Jogador \n\nUm jogador SEMPRE é um user","x":1015,"y":-1080,"width":250,"height":200,"color":"4"},
 		{"id":"f307736f6e9516fd","type":"file","file":"notes_obsidian/FuteBola-Platform/Modelagem de dados/Tabelas/\"TB_PLAYER_GROUP\".md","x":940,"y":1040,"width":400,"height":400},
 		{"id":"bf96249f7977cbb1","type":"file","file":"notes_obsidian/FuteBola-Platform/Modelagem de dados/Tabelas/\"TB_PLAYER_PAYMENT\".md","x":-560,"y":1040,"width":400,"height":400},
-		{"id":"27afcb94c4e4f3a7","type":"text","text":"ManyToOne\nUm grupo pode ser Any Pagamentos\n\nUm Pagamento só poder ser feito para um grupo\n","x":320,"y":1118,"width":250,"height":245},
+		{"id":"27afcb94c4e4f3a7","type":"text","text":"N:1\nUm grupo pode ser Any Pagamentos\n\nUm Pagamento só poder ser feito para um grupo\n","x":320,"y":1118,"width":250,"height":245},
 		{"id":"be004df74816b6ed","type":"file","file":"notes_obsidian/FuteBola-Platform/Modelagem de dados/Tabelas/\"TB_PLAYER\".md","x":940,"y":-560,"width":400,"height":400,"color":"4"},
 		{"id":"1461b27b0c77f70d","type":"text","text":"N:N\n\nUm Jogador pode fazer parte de Any Grupos\n\nUm Grupo de Jogadores Pode ter Any Jogadores","x":1040,"y":345,"width":250,"height":200},
 		{"id":"0f89e41e72a4ac11","type":"text","text":"1:1\nUm hogador pode fazer um Pagamento\n\nUm Pagamento pode ser feito por um jogador","x":320,"y":345,"width":250,"height":170},
