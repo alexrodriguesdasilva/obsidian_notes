@@ -14,7 +14,7 @@
 		{"id":"67662cc1e7cbdc02","type":"text","text":"N:N\n\nUm Jogador pode participar de muitas partidas\n\nUma partida pode ter Muitos jogadores","x":1400,"y":1100,"width":309,"height":243,"color":"4"},
 		{"id":"ec474d01b5c171d7","type":"file","file":"notes_obsidian/FuteBola-Platform/Modelagem de dados/Tabelas/\"TB_MATCH\".md","x":880,"y":2325,"width":560,"height":475,"color":"4"},
 		{"id":"009ec809ccbfffa1","type":"file","file":"notes_obsidian/FuteBola-Platform/Modelagem de dados/Tabelas/TB_MATCH_PLAYER.md","x":2000,"y":1021,"width":400,"height":400,"color":"4"},
-		{"id":"dca3c6b9db45c88b","x":2000,"y":245,"width":400,"height":400,"color":"4","type":"file","file":"notes_obsidian/FuteBola-Platform/Modelagem de dados/Tabelas/TB_PLAYER_GROUP_MEMBER.md"}
+		{"id":"dca3c6b9db45c88b","type":"file","file":"notes_obsidian/FuteBola-Platform/Modelagem de dados/Tabelas/TB_PLAYER_GROUP_MEMBER.md","x":2000,"y":245,"width":400,"height":400,"color":"4"}
 	],
 	"edges":[
 		{"id":"7daf5a41a027191a","fromNode":"03a73d18aa678be1","fromSide":"bottom","toNode":"be004df74816b6ed","toSide":"top","color":"4"},
