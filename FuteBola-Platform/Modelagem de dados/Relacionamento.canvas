@@ -9,7 +9,7 @@
 		{"id":"1461b27b0c77f70d","type":"text","text":"N:N\n\nUm Jogador pode fazer parte de Any Grupos\n\nUm Grupo de Jogadores Pode ter Any Jogadores","x":1040,"y":345,"width":250,"height":200,"color":"4"},
 		{"id":"0f89e41e72a4ac11","type":"text","text":"1:N\nUm jogador pode fazer muitos Pagamento\n\nUm Pagamento sempre é de um jogador","x":320,"y":345,"width":250,"height":170,"color":"4"},
 		{"id":"ebf50e5057ffa16e","type":"text","text":"N:1\n\nUm Grupo pode ter Muitas partidas\n\nUma partida talvez pode fazer parte de um grupo","x":968,"y":1760,"width":345,"height":160,"color":"4"},
-		{"id":"23854d444c907b6d","type":"text","text":"1:N\n\nUma partida pode ter Muitos Pagamentos\n\nUm pagamento talvez pode ser feito para um grupo","x":-40,"y":1920,"width":325,"height":181,"color":"4"},
+		{"id":"23854d444c907b6d","type":"text","text":"N:1\n\nUma partida pode ter Muitos Pagamentos\n\nUm pagamento talvez pode ser feito para um grupo","x":-40,"y":1920,"width":325,"height":181,"color":"4"},
 		{"id":"781cb1c7ccf371f1","type":"text","text":"**Onde implementar a regra de negócio de bônus?**\n\nAlguns grupos possuem uma regra em que, se um jogador realizar o pagamento de 3 partidas dentro de um mesmo mês, esse jogador é considerado como tendo quitado o pagamento mensal integral.","x":80,"y":2529,"width":341,"height":271,"color":"1"},
 		{"id":"67662cc1e7cbdc02","type":"text","text":"N:N\n\nUm Jogador pode participar de muitas partidas\n\nUma partida pode ter Muitos jogadores","x":1400,"y":1100,"width":309,"height":243,"color":"4"},
 		{"id":"ec474d01b5c171d7","type":"file","file":"notes_obsidian/FuteBola-Platform/Modelagem de dados/Tabelas/\"TB_MATCH\".md","x":880,"y":2325,"width":560,"height":475,"color":"4"},
